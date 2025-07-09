@@ -83,10 +83,10 @@ const miguel = {
 - **Descripción**: Currículum web optimizado para SEO y empresas objetivo
 - **Características**: Responsive, optimizado para móviles, structured data
 
-### 🔗 [Portafolio Profesional](https://cosmic-parfait-6d417d.netlify.app/google-hire-miguel-amezcua.html)
-- **Enfoque**: Casos de uso reales y proyectos destacados
-- **Optimización**: SEO y experiencia de usuario
-- **Contenido**: Experiencia técnica, metodologías y resultados
+### 🔗 [Portafolio Profesional](https://cosmic-parfait-6d417d.netlify.app/perfil-profesional.html)
+- **Enfoque**: Experiencia profesional detallada y stack tecnológico
+- **Contenido**: Casos de uso, proyectos y fortalezas profesionales
+- **Diseño**: Interfaz profesional y responsiva
 
 ---
 
