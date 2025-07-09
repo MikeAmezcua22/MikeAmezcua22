@@ -1,46 +1,46 @@
 # 👋 Hola, soy Miguel Angel Amezcua Alcantar
 
-## 🚀 Senior Software Engineer | Full-Stack Developer
+## 🚀 Software Developer | TypeScript · Node.js · React · NestJS
 
-Soy un **Senior Software Engineer** con más de 7 años de experiencia en desarrollo full-stack, soluciones en la nube y aplicaciones web escalables. Me apasiona crear soluciones tecnológicas eficientes y trabajar con equipos de alto rendimiento.
+Soy Ingeniero en Software con una fuerte capacidad de adaptación y una curiosidad constante por implementar soluciones novedosas que optimicen procesos de forma eficiente. Disfruto compartir lo que aprendo y aprender de los demás, porque creo que el conocimiento crece cuando se comparte.
 
-### 🎯 Enfoque profesional:
-- **Desarrollo Full-Stack** - Aplicaciones web modernas y escalables
-- **Arquitectura de Software** - Diseño de sistemas robustos
-- **Cloud Computing** - Soluciones en AWS y Google Cloud
-- **Liderazgo Técnico** - Mentoring y gestión de equipos
-- **Innovación Tecnológica** - Implementación de mejores prácticas
+Mi experiencia en el sector logístico me ha enseñado el valor de trabajar con orden y precisión en los tiempos. He desarrollado la mayor parte de mi carrera en entornos remotos, donde he aprendido a gestionar mis tareas con autonomía y responsabilidad.
+
+### 🎯 Especialidades:
+- **APIs RESTful** - Diseño y mantenimiento de servicios backend
+- **React & React Native** - Desarrollo de interfaces y aplicaciones móviles
+- **TypeScript & Node.js** - Desarrollo backend robusto y escalable
+- **Metodología SCRUM** - Liderazgo y gestión de proyectos
+- **Arquitectura de Software** - Buenas prácticas y escalabilidad
 
 ---
 
 ## 💻 Stack Tecnológico
 
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Frontend & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend
+### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### Cloud & Tools
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Bases de Datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
@@ -49,20 +49,18 @@ Soy un **Senior Software Engineer** con más de 7 años de experiencia en desarr
 ```javascript
 const miguel = {
   nombre: "Miguel Angel Amezcua Alcantar",
-  rol: "Senior Software Engineer",
-  ubicacion: "Guadalajara, Jalisco, México",
-  experiencia: "7+ años",
+  rol: "Software Developer",
+  ubicacion: "Ciudad de México, México",
+  experiencia: "3+ años en desarrollo",
+  stack_principal: [
+    "TypeScript", "Node.js", "React", "NestJS",
+    "React Native", "MongoDB", "SQL Server"
+  ],
   especialidades: [
-    "Desarrollo Full-Stack",
-    "Arquitectura de Software",
-    "Soluciones en la Nube",
-    "Liderazgo Técnico",
-    "Metodologías Ágiles"
+    "APIs RESTful", "Microservicios", "SCRUM",
+    "Arquitectura de Software", "Desarrollo Móvil"
   ],
-  intereses: [
-    "Arquitectura de Microservicios", "DevOps", "Machine Learning",
-    "Desarrollo de APIs", "Optimización de Performance"
-  ],
+  sector: "Logística y Fulfillment",
   open_to_work: true
 };
 ```
@@ -92,22 +90,23 @@ const miguel = {
 
 ---
 
-## 📈 Experiencia Clave
+## 📈 Experiencia Profesional
 
-### 🏢 **Desarrollo Full-Stack**
-- Aplicaciones web escalables con React y Node.js
-- APIs RESTful y GraphQL
-- Microservicios y arquitectura distribuida
+### 🏢 **Actualmente - Software Developer @ LOGÍSTICA WOODWARD**
+- Diseño y mantenimiento de APIs RESTful gestionando +1000 transacciones diarias
+- Liderazgo en metodología SCRUM para mejora de procesos
+- Desarrollo de funciones serverless en Azure con Python
+- Despliegue de aplicaciones React Native en stores
 
-### ☁️ **Cloud Computing**
-- AWS: EC2, Lambda, S3, RDS, CloudFormation
-- Google Cloud: App Engine, Cloud Functions, BigQuery
-- Implementación de CI/CD pipelines
+### ⚙️ **Experiencia Previa**
+- **Frontend Developer** en MLTi Logistics - Plataforma marketplace
+- **Frontend Developer** en Muub Fulfillment - Automatización de pedidos
+- **Backend Developer** - APIs RESTful y GraphQL
 
-### 👥 **Liderazgo Técnico**
-- Mentoring de desarrolladores junior
-- Arquitectura de sistemas complejos
-- Implementación de mejores prácticas
+### 📊 **Logros Destacados**
+- Arquitectura de sistemas escalables en sector logístico
+- Implementación de librerías de componentes reutilizables
+- Optimización de flujos de usuario y experiencia
 
 ---
 
@@ -120,9 +119,9 @@ const miguel = {
 **Abierto a nuevas oportunidades y colaboraciones**
 🚀 Enfocado en proyectos desafiantes y equipos innovadores
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguelamezcua)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mikeamezcuadev)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MikeAmezcua22)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguel.amezcua@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguel_22_t@hotmail.com)
 [![CV Web](https://img.shields.io/badge/CV_Web-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://cosmic-parfait-6d417d.netlify.app/)
 
 </div>
@@ -135,9 +134,9 @@ const miguel = {
 
 <!--
 **Palabras clave para SEO:**
-Miguel Angel Amezcua, Senior Software Engineer, Full-Stack Developer, 
-JavaScript Developer, Python Developer, React Developer, Node.js Developer,
-Cloud Engineer, DevOps Engineer, Software Architect,
-JavaScript, Python, React, Node.js, AWS, Google Cloud,
-Guadalajara Developer, Mexico Developer, Remote Developer
+Miguel Angel Amezcua, Software Developer, TypeScript Developer, 
+React Developer, Node.js Developer, NestJS Developer, React Native Developer,
+Backend Developer, Frontend Developer, API Developer,
+TypeScript, JavaScript, React, Node.js, NestJS, React Native,
+Logistics Developer, Mexico City Developer, Remote Developer
 -->
