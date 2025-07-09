@@ -2,15 +2,14 @@
 
 ## 🚀 Senior Software Engineer | Full-Stack Developer
 
-Soy un **Senior Software Engineer** con experiencia en desarrollo full-stack, soluciones en la nube y aplicaciones web escalables. **Actualmente disponible para oportunidades** en empresas líderes como **Encora**, **Mercado Libre**, **Nu Bank**, **Globant**, **Luxoft** y startups bien financiadas.
+Soy un **Senior Software Engineer** con más de 7 años de experiencia en desarrollo full-stack, soluciones en la nube y aplicaciones web escalables. Me apasiona crear soluciones tecnológicas eficientes y trabajar con equipos de alto rendimiento.
 
-### 🎯 Buscando nuevas oportunidades en:
-- **Encora** - Desarrollo de software global
-- **Mercado Libre** - E-commerce y fintech
-- **Nu Bank** - Fintech y servicios financieros
-- **Globant** - Consultoría tecnológica
-- **Luxoft** - Desarrollo de software empresarial
-- **Startups bien financiadas** - Innovación y tecnología
+### 🎯 Enfoque profesional:
+- **Desarrollo Full-Stack** - Aplicaciones web modernas y escalables
+- **Arquitectura de Software** - Diseño de sistemas robustos
+- **Cloud Computing** - Soluciones en AWS y Google Cloud
+- **Liderazgo Técnico** - Mentoring y gestión de equipos
+- **Innovación Tecnológica** - Implementación de mejores prácticas
 
 ---
 
@@ -60,11 +59,11 @@ const miguel = {
     "Liderazgo Técnico",
     "Metodologías Ágiles"
   ],
-  empresasObjetivo: [
-    "Encora", "Mercado Libre", "Nu Bank", 
-    "Globant", "Luxoft", "Startups"
+  intereses: [
+    "Arquitectura de Microservicios", "DevOps", "Machine Learning",
+    "Desarrollo de APIs", "Optimización de Performance"
   ],
-  disponible: true
+  open_to_work: true
 };
 ```
 
@@ -86,10 +85,10 @@ const miguel = {
 - **Descripción**: Currículum web optimizado para SEO y empresas objetivo
 - **Características**: Responsive, optimizado para móviles, structured data
 
-### 🔗 [Página de Contratación](https://cosmic-parfait-6d417d.netlify.app/google-hire-miguel-amezcua.html)
-- **Enfoque**: Orientado a reclutadores de Encora, Mercado Libre, Nu Bank, Globant, Luxoft
-- **Optimización**: SEO específico para empresas objetivo
-- **Contenido**: Casos de uso, experiencia relevante, portfolio
+### 🔗 [Portafolio Profesional](https://cosmic-parfait-6d417d.netlify.app/google-hire-miguel-amezcua.html)
+- **Enfoque**: Casos de uso reales y proyectos destacados
+- **Optimización**: SEO y experiencia de usuario
+- **Contenido**: Experiencia técnica, metodologías y resultados
 
 ---
 
@@ -116,10 +115,10 @@ const miguel = {
 
 <div align="center">
 
-### ¡Listo para el siguiente desafío!
+### ¡Siempre aprendiendo y creciendo!
 
-**Especialmente interesado en oportunidades con:**
-- **Encora** | **Mercado Libre** | **Nu Bank** | **Globant** | **Luxoft**
+**Abierto a nuevas oportunidades y colaboraciones**
+🚀 Enfocado en proyectos desafiantes y equipos innovadores
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguelamezcua)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MikeAmezcua22)
@@ -131,14 +130,14 @@ const miguel = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=miguelamezcua&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=MikeAmezcua22&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 <!--
 **Palabras clave para SEO:**
 Miguel Angel Amezcua, Senior Software Engineer, Full-Stack Developer, 
-Encora Developer, Mercado Libre Developer, Nu Bank Developer, 
-Globant Developer, Luxoft Developer, Startup Developer,
+JavaScript Developer, Python Developer, React Developer, Node.js Developer,
+Cloud Engineer, DevOps Engineer, Software Architect,
 JavaScript, Python, React, Node.js, AWS, Google Cloud,
 Guadalajara Developer, Mexico Developer, Remote Developer
 -->
